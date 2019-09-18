@@ -130,3 +130,6 @@ image:6 : Prediction Succeed
 Label : 33 Prediction:33
 ```
 
+
+
+项目详细的中文描述及解析见《[初识深度学习之交通标志分类](https://zhuanlan.zhihu.com/p/57160727)》
