@@ -49,3 +49,5 @@
 ![7.test5](.\output_images\7.test5.jpg)
 
 
+
+项目详细的中文描述及解析见《[再识图像之高级车道线检测](https://zhuanlan.zhihu.com/p/54866418)》
