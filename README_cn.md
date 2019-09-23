@@ -20,5 +20,5 @@
 
 5. **多传感器融合项目**
 
-![dataset2_result](/home/shawn/Music/Udacity-Self-Driving-Car-Engineer/5.CarND-Extended-Kalman-Filter-Project/readme_pic/dataset2_result.png)
+![dataset2_result](./5.CarND-Extended-Kalman-Filter-Project/readme_pic/dataset2_result.png)
 
