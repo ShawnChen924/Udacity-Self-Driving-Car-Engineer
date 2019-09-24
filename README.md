@@ -23,3 +23,7 @@ These projects includes:
 
 ![dataset2_result](./5.CarND-Extended-Kalman-Filter-Project/readme_pic/dataset2_result.png)
 
+6. CarND-Unscented-Kalman-Filter-Project
+7. CarND-Kidnapped-Vehicle-Project
+
+![result](./7.CarND-Kidnapped-Vehicle-Project/pic/result.png)

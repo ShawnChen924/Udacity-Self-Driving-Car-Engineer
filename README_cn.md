@@ -22,3 +22,7 @@
 
 ![dataset2_result](./5.CarND-Extended-Kalman-Filter-Project/readme_pic/dataset2_result.png)
 
+6. **无迹卡尔曼滤波器**
+7. **无人车定位项目**
+
+![result](./7.CarND-Kidnapped-Vehicle-Project/pic/result.png)
